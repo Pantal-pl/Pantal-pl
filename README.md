@@ -1,7 +1,16 @@
-## Hey 👋, This is Radosław Selewski
-[![Gmail Badge](https://img.shields.io/badge/-Radek.Selewski@wp.pl-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:Radek.Selewski@wp.pl)](mailto:Radek.Selewski@wp.pl) [![Github Badge](https://img.shields.io/badge/-Pantal-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Pantal/)](https://www.github.com/Pantal/) 
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=Pantal alt=Pantal /> </p>
+### Hi there 👋, This is Radosław Selewski
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Pantal&show_icons=true&include_all_commits=true)](https://github.com/Pantal/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pantal&layout=compact)](https://github.com/Pantal/github-readme-stats)
+I create small pages for fun, but so they don't look like shit.
+
+Skills: HTML / CSS / JS / REACT / UX / UI / 
+
+- 🔭 I’m currently working on first react project  
+- 🌱 I’m currently learning react 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Pantal-pl)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pantal-pl)](https://github.com/anuraghazra/github-readme-stats)
+
