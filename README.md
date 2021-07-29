@@ -1,6 +1,6 @@
 ### Hi there 👋, This is Radosław Selewski
 
-I create small pages for fun, but so they don't look like shit.
+Creating just for fun, and maybe for $ in future.
 
 Skills: HTML / CSS / JS / REACT / UX / UI 
 
