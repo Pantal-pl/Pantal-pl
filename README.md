@@ -1,6 +1,4 @@
 ### Hi there 👋, This is Radosław Selewski
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I create small pages for fun, but so they don't look like shit.
 
