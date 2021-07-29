@@ -1,4 +1,4 @@
-### Hi there 👋, This is Radosław Selewski
+### Hi there 👋, This is RS
 
 Creating just for fun, and maybe for $ in future.
 
