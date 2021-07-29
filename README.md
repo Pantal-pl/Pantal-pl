@@ -2,7 +2,7 @@
 
 I create small pages for fun, but so they don't look like shit.
 
-Skills: HTML / CSS / JS / REACT / UX / UI / 
+Skills: HTML / CSS / JS / REACT / UX / UI 
 
 - 🔭 I’m currently working on first react project  
 - 🌱 I’m currently learning react 
