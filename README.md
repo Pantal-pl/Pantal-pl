@@ -4,9 +4,6 @@ Creating just for fun, and maybe for $ in future.
 
 Skills: HTML / CSS / JS / REACT / UX / UI 
 
-- 🔭 I’m currently working on first react project  
-- 🌱 I’m currently learning react 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Pantal-pl)  
 
