@@ -1,7 +1,6 @@
 ### Hi there 👋, This is RS
 
-Creating just for fun, and maybe for $ in future.
-
+Just for fun
 Skills: HTML / CSS / JS / REACT / UX / UI 
 
 
