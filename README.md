@@ -3,9 +3,8 @@
 ## Social
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/figma.svg' alt='github' height='22'>](https://www.figma.com/@Pantal)
 
-<br />
 
-##Skills and tools
+## Skills and tools
 
 [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javaScript' height='22'>]
 [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css' height='22'>]
