@@ -11,7 +11,7 @@
 [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css' height='22'>]
 [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sass.svg' alt='scss' height='22'>]
 [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='22'>]
-[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hasura.svg' alt='hasura' height='22'>]
+[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/Hasura.svg' alt='hasura' height='22'>]
 [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg' alt='docker' height='22'>]
 [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/auth0.svg' alt='auth0' height='22'>]
 [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg' alt='visual studio code' height='22'>]
