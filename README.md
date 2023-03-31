@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Radek</h1>
-<h3 align="center">A JavaScript Developer.</h3>
+
+<h1 align="center">JavaScript Developer.</h1>
 
 <h3 align="left">Languages and Tools:</h3>
  <a href="https://skillicons.dev">
