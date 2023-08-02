@@ -1,6 +1,6 @@
 
 <h1 align="center">Backend AWS Software Engineer</h1>
-
+ <img src="https://www.codewars.com/users/Pantal-pl/badges/large" />
 <h3 align="left">Frontend:</h3>
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,sass,vite,graphql" />
@@ -13,5 +13,5 @@
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,git" />
   </a>
-  <img src="https://www.codewars.com/users/Pantal-pl/badges/large" />
+
 
