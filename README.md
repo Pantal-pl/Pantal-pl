@@ -13,4 +13,5 @@
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,git" />
   </a>
-<p><img display="flex" align-items="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pantal-pl&theme=dark" alt="pantal-pl" /></p>
+  <img src="https://www.codewars.com/users/Pantal-pl/badges/large" />
+
